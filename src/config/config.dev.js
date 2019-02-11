@@ -3,6 +3,6 @@ module.exports = {
   keys: ['some secret hurr'],
   session: {
     // key: 'koa:sess'
-    key: 'rap2:sess'
+    key: 'qianqianshijie:rap2:sess'
   }
 }
